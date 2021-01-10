@@ -1,0 +1,29 @@
+navbar .nav-item .nav-link
+{
+    
+	color:white;
+}
+.main-header{
+	background: url(fondo.jpg);
+	min-height: 500px;
+	/* Definir la imagen como única*/
+	background-size: cover;
+}
+.main2-header{
+    background-color: rgb(190, 182, 243);
+    min-height: 500px;
+    min-width: 500px;
+    
+}
+
+
+.footer{
+    background-color: violet;
+    width: 100%;
+    height: 280px;
+    bottom: 0;
+    position: center;
+    text-align: center;
+    
+    
+}
